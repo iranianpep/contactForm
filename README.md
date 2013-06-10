@@ -10,7 +10,7 @@ In order to use this form you have to enter three things:
 
 Get reCAPTCHA keys at http://www.google.com/recaptcha/whyrecaptcha
 
-Specification:
+Specifications:
 - jQuery (client-side) validation
 - Send button is disabled if Javascript is disabled
 - Server side validation
