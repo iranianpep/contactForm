@@ -17,6 +17,6 @@ Specification:
 - Designed based on Twitter bootstrap
 - Spam prevention using reCAPTCHA
 
-FREE to use. you can even remove the bottom link.
+FREE to use. you can even remove the link at the bottom of the form.
 
 Demo: http://www.ehsanabbasi.com/contactformV2WithoutAdminArea/contact.php
