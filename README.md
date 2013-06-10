@@ -8,7 +8,7 @@ In order to use this form you have to enter three things:
 - your reCAPTCHA public key in contact.php (search twice for YOUR reCAPTCHA PUBLIC KEY)
 - your email address in contactProcess.php (search for YOUR EMAIL)
 
-* get reCAPTCHA keys at http://www.google.com/recaptcha/whyrecaptcha
+Get reCAPTCHA keys at http://www.google.com/recaptcha/whyrecaptcha
 
 Specification:
 - jQuery (client-side) validation
