@@ -12,7 +12,7 @@ require_once('contact_files/includes/recaptchalib.php');
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="contact_files/css/bootstrap.min.css" rel="stylesheet">
     <link href="contact_files/css/custom.css" rel="stylesheet">
     <style type="text/css">
       body {
