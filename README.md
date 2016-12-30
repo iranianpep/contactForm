@@ -1,6 +1,8 @@
 Contact Form
 ===========
 
+*This repo is old and abbondante. There will be no further development*
+
 A simple contact us form with jQuery validation, PHP and Ajax
 
 In order to use this form you have to enter three things:
